@@ -1,0 +1,30 @@
+{
+  "name": "react1",
+  "version": "1.0.0",
+  "description": "This is react course",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdarshRaj556/React1.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Adarsh Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdarshRaj556/React1/issues"
+  },
+  "homepage": "https://github.com/AdarshRaj556/React1#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
