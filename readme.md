@@ -18,4 +18,27 @@
  -HTTPs
  -Tree Shaking Algorithm
 
- 
+ # Food Ordering App
+ /**
+ *Header
+    -logo
+    -Nav-items
+*Body
+    -search
+    -restaurantContainer
+        -restaurantCards
+        -img
+        -Name of Res,star rating,cuisine,delivery time
+*/
+# Two Types of import and Export
+    -Default import/export
+        export default component
+        import component from "path"
+    -Names import/export
+        export const Component;
+        import {component} from "path";
+
+# React Hooks
+ (normal JS utility function)
+    -useState():Super powerful state variables in React
+    -useEffect()

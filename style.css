@@ -31,7 +31,16 @@ body {
     font-size: 18px;
     list-style-type: none;
 }
-
+.filter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+}
+.filter-btn{
+    font-size: 20px;
+    cursor: pointer;
+}
 .nav-items > ul > li {
     cursor: pointer;
     padding: 5px 10px;
